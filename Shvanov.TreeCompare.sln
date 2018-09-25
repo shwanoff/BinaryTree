@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shvanov.TreeCompare", "Shvanov.TreeCompare\Shvanov.TreeCompare.csproj", "{43598F76-4177-4412-8B44-DE7F27C98F9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shvanov.TreeCompareTests", "Shvanov.TreeCompareTests\Shvanov.TreeCompareTests.csproj", "{2892C442-F20A-4A17-8DEF-879C0E53105A}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43598F76-4177-4412-8B44-DE7F27C98F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43598F76-4177-4412-8B44-DE7F27C98F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43598F76-4177-4412-8B44-DE7F27C98F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43598F76-4177-4412-8B44-DE7F27C98F9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2892C442-F20A-4A17-8DEF-879C0E53105A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2892C442-F20A-4A17-8DEF-879C0E53105A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2892C442-F20A-4A17-8DEF-879C0E53105A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2892C442-F20A-4A17-8DEF-879C0E53105A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7757BD8-C72D-4249-A5CE-2FEFB5D3C44C}
+	EndGlobalSection
+EndGlobal
